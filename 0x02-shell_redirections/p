@@ -1,0 +1,3 @@
+git add .
+git commit -m "Added a commit on i/o :)"
+git push
