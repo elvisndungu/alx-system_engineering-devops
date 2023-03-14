@@ -1,6 +1,5 @@
 #!/bin/bash
 chmod u+x *
-git status
 git add .
 git commit -m '🥹 new commit to Shell variables'
 git push
